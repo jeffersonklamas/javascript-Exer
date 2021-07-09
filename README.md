@@ -1,4 +1,4 @@
-![JavaScript](/JavaScript.jpeg)
+<img src="img/JavaScript.jpeg" alt="JavaScript" style="zoom:200%;" />
 
 ## Exercícios em JavaScript
 

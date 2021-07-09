@@ -1,6 +1,4 @@
-![JavaScript](/home/jkm/Imagens/JavaScript.jpeg)
-
-
+![JavaScript](/JavaScript.jpeg)
 
 ## Exercícios em JavaScript
 
